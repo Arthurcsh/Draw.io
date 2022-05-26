@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-26T06:02:49.834Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="n-l6Qy5-vlHEWWXa7rbE" version="18.1.2" type="github">
+<mxfile modified="2022-05-26T07:01:29.256Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="TtQp2oeo6cTRMD7ixMbN" version="18.1.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1196" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="14" value="&lt;b&gt;CI/CD&lt;/b&gt;&amp;nbsp;Workflow" style="shadow=0;fontSize=14;align=left;spacing=10;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="230" y="74" width="870" height="416" as="geometry" />
         </mxCell>
-        <mxCell id="756" value="US Team" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
+        <mxCell id="756" value="&lt;font color=&quot;#000000&quot;&gt;OPS/QA Team&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
           <mxGeometry x="70" y="90" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="757" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;" parent="1" source="734" edge="1">
@@ -58,7 +58,7 @@
           <mxGeometry x="867" y="119" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="779" value="" style="fillColor=#ffffff;strokeColor=#BDBDBD;strokeWidth=1;shadow=0;gradientColor=none;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="510" width="600" height="70" as="geometry" />
+          <mxGeometry x="230" y="510" width="840" height="70" as="geometry" />
         </mxCell>
         <mxCell id="780" value="1 Commit code, push tag" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
@@ -88,7 +88,13 @@
             <mxPoint x="400" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ojXj5y6HiEK-yapRCw0R-785" value="OPS Team" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#d6b656;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="H9FEirbxpRpfid_Zn00T-786" value="7 OPS/QA&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
+          <mxGeometry x="610" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H9FEirbxpRpfid_Zn00T-787" value="8 Bitrise Platform deliver target file&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
+          <mxGeometry x="610" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ojXj5y6HiEK-yapRCw0R-785" value="Release Owner" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#d6b656;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="70" y="222.5" width="90" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="ojXj5y6HiEK-yapRCw0R-786" value="Manager" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;" parent="1" vertex="1">
