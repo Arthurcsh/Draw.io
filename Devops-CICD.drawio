@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-26T07:01:29.256Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="TtQp2oeo6cTRMD7ixMbN" version="18.1.2" type="github">
+<mxfile modified="2022-05-26T07:05:46.780Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="0cCitAVI_yKtdsc_38QL" version="18.1.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1196" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -83,15 +83,15 @@
             <mxPoint x="400" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="785" value="6 Publich ipa to App Store" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
+        <mxCell id="785" value="6 Generate installation package" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint x="400" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9FEirbxpRpfid_Zn00T-786" value="7 OPS/QA&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
-          <mxGeometry x="610" width="200" height="30" as="geometry" />
+        <mxCell id="H9FEirbxpRpfid_Zn00T-786" value="7 Release Owner perform strengthen operation&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
+          <mxGeometry x="610" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H9FEirbxpRpfid_Zn00T-787" value="8 Bitrise Platform deliver target file&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
+        <mxCell id="H9FEirbxpRpfid_Zn00T-787" value="8&amp;nbsp;OPS/QA&amp;nbsp;6 release ipa to App Store&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" vertex="1" parent="779">
           <mxGeometry x="610" y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ojXj5y6HiEK-yapRCw0R-785" value="Release Owner" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#d6b656;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#fff2cc;" parent="1" vertex="1">
