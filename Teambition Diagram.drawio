@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T12:05:46.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wr41wspkZB2oyxmfEWTW" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T12:09:31.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wFBFv_EjF5Ow4H4cMpxm" version="18.1.3" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1196" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="4ec97bd9e5d20128-16" value="1. 根据Story/Task拆解细化.&#xa;2. 输入基本开发元素工时标准&#xa;3. 对拆解后任务项根据工时模版评估开发工时" style="text;spacing=5;spacingTop=2;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="319" y="290" width="215" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="1. TPM主导，由PM/DEV共同确认.&#xa;2. 输出工时评估表" style="text;spacing=5;spacingTop=10;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-17" value="1. TPM主导，由PM/DEV共同确认.&#xa;2. 接口数量 / Provision / 后端链路&#xa;3. 输出工时估算表" style="text;spacing=5;spacingTop=4;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="430" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="1. 根据工时评估表输入TB预计总工时.&#xa;2. 输" style="text;spacing=5;spacingTop=4;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="773" y="300" width="215" height="70" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-18" value="根据工时估算表输入TB预计总工时." style="text;spacing=5;spacingTop=16;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="773" y="310" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
